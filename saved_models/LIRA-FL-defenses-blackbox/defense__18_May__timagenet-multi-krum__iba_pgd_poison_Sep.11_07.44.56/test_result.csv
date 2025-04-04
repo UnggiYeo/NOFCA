@@ -1,0 +1,3 @@
+model,flr,avg_clean_loss,avg_poison_loss,avg_clean_acc,avg_poison_acc
+global,0,2.3782790557861326,2.611709449005127,0.1547,0.1454
+global,1,2.066438486862183,2.526254141616821,0.4073,0.0549
